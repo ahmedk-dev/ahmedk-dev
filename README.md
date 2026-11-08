@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedk-dev
 - 👀 I’m interested in software development especially using JavaScript, Go, & Python.
-- 🌱 I’m currently learning React, Go, & Python, Data Structures & Algos.
+- 🌱 I’m currently learning Go, & Python, Data Structures & Algos.
 - 💞️ I’m looking to collaborate on interesting open source projects.
 - 📫 How to reach me ...
 
